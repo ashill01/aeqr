@@ -1,6 +1,15 @@
 {
     "version": 1.0,
     "emms": {
+        "Admins": {
+            "displayName": "Admins",
+            "componentName": "",
+            "downloadLocation": "",
+            "checksum": "",
+            "extras": {},
+            "defaultExtras": {},
+            "hiddenExtras": {}
+        },
         "Other": {
             "displayName": "Other",
             "componentName": "",
